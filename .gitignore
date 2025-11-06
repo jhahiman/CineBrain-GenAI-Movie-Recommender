@@ -1,0 +1,20 @@
+# Environment files
+.env
+*.env
+
+# Data and caches
+cinebrain/data/
+__pycache__/
+*.db
+*.parquet
+
+# System / IDE files
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Python build files
+*.pyc
+*.pyo
+*.pyd
+*.log
