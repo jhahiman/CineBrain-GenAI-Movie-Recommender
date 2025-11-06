@@ -1,0 +1,11 @@
+cat > requirements.txt <<'EOF'
+streamlit
+requests
+pandas
+numpy
+faiss-cpu
+pydantic
+python-dotenv
+google-generativeai
+duckdb
+EOF
