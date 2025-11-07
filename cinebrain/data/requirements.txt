@@ -1,3 +1,4 @@
+rm requirements.txt
 cat > requirements.txt <<'EOF'
 streamlit
 requests
